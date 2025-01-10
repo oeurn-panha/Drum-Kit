@@ -19,7 +19,7 @@ function play(btnletter) {
         var audio = new Audio('sounds/crash.mp3');
         audio.play();break;
         case "a": 
-        var audio = new Audio('sounds/kick.mp3');
+        var audio = new Audio('sounds/kick-bass.mp3');
         audio.play();break;
         case "s": 
         var audio = new Audio('sounds/snare.mp3');
